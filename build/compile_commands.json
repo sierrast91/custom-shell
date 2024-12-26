@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/mnt/c/Users/Foras/dev/cLang/custom-shell/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/Foras/dev/cLang/custom-shell/inc  -o CMakeFiles/myshell.dir/main.c.o -c /mnt/c/Users/Foras/dev/cLang/custom-shell/main.c",
+  "file": "/mnt/c/Users/Foras/dev/cLang/custom-shell/main.c",
+  "output": "CMakeFiles/myshell.dir/main.c.o"
+},
+{
+  "directory": "/mnt/c/Users/Foras/dev/cLang/custom-shell/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/Foras/dev/cLang/custom-shell/inc  -o CMakeFiles/myshell.dir/src/cmd.c.o -c /mnt/c/Users/Foras/dev/cLang/custom-shell/src/cmd.c",
+  "file": "/mnt/c/Users/Foras/dev/cLang/custom-shell/src/cmd.c",
+  "output": "CMakeFiles/myshell.dir/src/cmd.c.o"
+},
+{
+  "directory": "/mnt/c/Users/Foras/dev/cLang/custom-shell/build",
+  "command": "/usr/bin/cc  -I/mnt/c/Users/Foras/dev/cLang/custom-shell/inc  -o CMakeFiles/myshell.dir/src/job.c.o -c /mnt/c/Users/Foras/dev/cLang/custom-shell/src/job.c",
+  "file": "/mnt/c/Users/Foras/dev/cLang/custom-shell/src/job.c",
+  "output": "CMakeFiles/myshell.dir/src/job.c.o"
+}
+]

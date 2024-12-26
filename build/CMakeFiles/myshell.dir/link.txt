@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/myshell.dir/main.c.o CMakeFiles/myshell.dir/src/cmd.c.o CMakeFiles/myshell.dir/src/job.c.o -o myshell 
